@@ -2,6 +2,7 @@
 layout: post
 title: Como usar o Join no SQL
 permalink: /como-usar-o-join-sql/
+preview: Entenda o funcionamento do join no sql e nunca mais fique louco montando um "where".
 ---
 
 Há uns 15 anos, quando comecei a trabalhar como programador, tive meu primeiro contato com o SQL. Na época utilizava o visual basic e não me lembro o nome do banco de dados. Mas não me esqueço dos enormes códigos sqls com a qual tinha que lidar.
