@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Campos Lab
 tagline:          'Laboratório do Alex'
 description:      'Bem vindo ao meu laboratório de programação! Fique a vontade para perguntar qualquer coisa.'
-url:              http://hyde.getpoole.com
+url:              https://camposlab.github.io
 baseurl:          /
 
 author:
