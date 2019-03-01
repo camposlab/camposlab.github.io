@@ -19,6 +19,9 @@ author:
 
 paginate:         5
 
+plugins:
+  - jekyll-seo-tag
+
 # Custom vars
 version:          2.1.0
 
